@@ -1,1 +1,0 @@
-# devchallenges-minimal-blog
